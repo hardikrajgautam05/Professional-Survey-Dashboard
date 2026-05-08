@@ -17,9 +17,12 @@ The dashboard was built using the following tools and technologies:
 • Data Modeling – Relationships and logical structure applied to ensure efficient analysis and accurate visualizations across datasets.
 • File Format – .pbix for development and .png for dashboard preview screenshots.
 
-4. Features / Highlights
+4. Features 
 • Cleaned and transformed raw survey data using Power Query
 • Built interactive dashboards with filters and slicers
 • Created KPIs such as happiness index and satisfaction metrics
 • Visualized salary trends, job roles, and country-wise distribution
 • Analyzed programming language preferences and industry entry difficulty
+
+5. Screenshot
+   https://github.com/hardikrajgautam05/Professional-Survey-Dashboard/blob/main/Dashboard%20Survey%20.png
