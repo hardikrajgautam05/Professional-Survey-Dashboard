@@ -1,7 +1,7 @@
 # Professional-Survey-Dashboard
-1. Project Title / Headline
+1. Project Title
 
-Data Professional Survey Analysis Dashboard | Power BI Interactive Workforce Insights
+Data Professional Survey Breakdown
 
 2. Description
 
@@ -25,4 +25,4 @@ The dashboard was built using the following tools and technologies:
 • Analyzed programming language preferences and industry entry difficulty
 
 5. Screenshot
-   https://github.com/hardikrajgautam05/Professional-Survey-Dashboard/blob/main/Dashboard%20Survey%20.png
+   ![Dashboard Preview](https://github.com/hardikrajgautam05/Professional-Survey-Dashboard/blob/main/Dashboard%20Survey%20.png)
