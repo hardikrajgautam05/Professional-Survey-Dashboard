@@ -11,11 +11,11 @@ This project is an interactive Power BI dashboard designed to analyze survey res
 
 The dashboard was built using the following tools and technologies:
 
-Power BI Desktop – Main data visualization platform used for building interactive reports and dashboards.
-Power Query – Used for data cleaning, transformation, and reshaping raw survey data into a structured format.
-DAX (Data Analysis Expressions) – Used to create calculated measures, KPIs, and dynamic insights such as happiness index and aggregated metrics.
-Data Modeling – Relationships and logical structure applied to ensure efficient analysis and accurate visualizations across datasets.
-File Format – .pbix for development and .png for dashboard preview screenshots.
+• Power BI Desktop – Main data visualization platform used for building interactive reports and dashboards.
+• Power Query – Used for data cleaning, transformation, and reshaping raw survey data into a structured format.
+• DAX (Data Analysis Expressions) – Used to create calculated measures, KPIs, and dynamic insights such as happiness index and aggregated metrics.
+• Data Modeling – Relationships and logical structure applied to ensure efficient analysis and accurate visualizations across datasets.
+• File Format – .pbix for development and .png for dashboard preview screenshots.
 
 4. Features / Highlights
 • Cleaned and transformed raw survey data using Power Query
